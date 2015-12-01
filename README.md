@@ -1,8 +1,6 @@
 # Turning-Gait
 
-The workbook contains supplemental data for the article: "The use of turning tasks in clinical gait analysis for children with cerebral 
-palsy". Dixon PC, Stebbins J, Theologis T, Zavatsky AB. Clinical Biomechanics. doi: 10.1016/j.clinbiomech.2015.10.010
-
+This repository contains supplemental data (excel format) for the article: "The use of turning tasks in clinical gait analysis for children with cerebral palsy". Dixon PC, Stebbins J, Theologis T, Zavatsky AB. Clinical Biomechanics. doi: 10.1016/j.clinbiomech.2015.10.010
 
 There are three main worksheets (Ground Reaction Forces, Joint Kinematics, and Joint Kinetics) in which normative turning data (spin turns)
 for the typically developing (TD) group are found. These data were used in the present study to quantify changes during turning in 
